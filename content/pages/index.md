@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: 'ISO, Haccp, Audit, hygiene food safety'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Situated in Cuenca Ecuador, we give services to a broad class of
+      customers, like fisk and scrimps production, Cheese and Yougurt, Caffee
+      production, acording to the QA and ambital methods applyed by the company
+      or by the client.
     actions:
       - label: Get started
         altText: ''
