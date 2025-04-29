@@ -7,7 +7,7 @@ sections:
       text: Consultants in Food production
       color: text-dark
       type: TitleBlock
-    subtitle: 'ISO, Hccap,'
+    subtitle: 'ISO, Haccp, Audit, Hidreen'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
